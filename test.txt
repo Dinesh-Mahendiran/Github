@@ -1,2 +1,3 @@
 Git is a version control system
 Github is used to maintain the repository
+Git is use dto track the code changes
